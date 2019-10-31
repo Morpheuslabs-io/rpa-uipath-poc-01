@@ -1,5 +1,5 @@
 # rpa-uipath-poc-01
-This is a UiPath RPA POC to for outlet payment reconciliation process.
+This is a UiPath RPA POC for outlet payment reconciliation process.
 
 Preparation to run the POC:
 
